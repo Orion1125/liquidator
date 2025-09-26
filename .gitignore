@@ -8,7 +8,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Env files
-.env
+
 
 # Build output
 dist/
